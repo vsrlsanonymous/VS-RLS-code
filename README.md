@@ -2,7 +2,7 @@
 # VS-RLS: Variable Stepsize Randomized Local Search
 
 This repository provides the source code and experimental data for the paper
-"Variable Stepsize Randomized Local Search for Multi-Objective Combinatorial Optimization" (under review).
+"Variable Search Stepsize for Randomized Local Search in Multi-Objective Combinatorial Optimization" (under review).
 
 Author: Xuepeng Ren, Maocai Wang*, Guangming Dai, Shengxiang Yang* Fellow, IEEE, Miqing Li* Senior Member, IEEE
 
